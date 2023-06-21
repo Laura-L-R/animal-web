@@ -1,0 +1,5 @@
+node_modules/
+header-video/
+*.vsc
+*.map
+*.mp4
